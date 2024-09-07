@@ -2,11 +2,12 @@
 <h3 align="center">Студент-программист колледжа ITHUB SPB</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-blue" alt="Age">
-  <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-brightgreen" alt="Location">
-  <img src="https://img.shields.io/badge/Languages-Russian%2C%20English-brightgreen" alt="Languages">
-  <img src="https://img.shields.io/badge/Status-Student-lightgrey" alt="Status">
+  <img src="https://img.shields.io/badge/Age-19-%236A0D91?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-%236A0D91?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Languages-Russian%2C%20English-%236A0D91?style=flat-square" alt="Languages">
+  <img src="https://img.shields.io/badge/Status-Student-%236A0D91?style=flat-square" alt="Status">
 </p>
+
 
 <h2 align="center">Что я могу кратко рассказать о себе?</h2>
 <p align="center">
