@@ -38,10 +38,20 @@
 
 ## 📫 Контакты для связи
 <p align="center">
-  <a href="mailto:karpovyaa23@spb.ithub.ru"><img src="https://img.shields.io/badge/Email-karpovyaa23@spb.ithub.ru-2E8B57?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:karpovyaa23@spb.ithub.ru">
+    <img src="https://img.shields.io/badge/Email-karpovyaa23@spb.ithub.ru-%234B0082?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-![Посетители](https://visitor-badge.laobi.icu/badge?page_id=Yankarpov.visitors)
+<div style="position: fixed; bottom: 0; left: 0; padding: 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yankarpov.visitors&left_text=Visitors&left_color=purple&right_color=indigo" alt="Visitors">
+</div>
+
+
+
+
+
+
 
 
 
