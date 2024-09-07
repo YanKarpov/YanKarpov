@@ -41,3 +41,10 @@
   <a href="mailto:karpovyaa23@spb.ithub.ru"><img src="https://img.shields.io/badge/Email-karpovyaa23@spb.ithub.ru-2E8B57?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+![Посетители](https://visitor-badge.laobi.icu/badge?page_id=Yankarpov.visitors)
+
+
+
+
+
+
