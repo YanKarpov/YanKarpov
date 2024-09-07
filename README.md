@@ -17,7 +17,7 @@
 </p>
 
 ## 🔧 Мои основные навыки на данный момент
-- **Python** ![80%](https://progress-bar.dev/75/)
+- **Python** ![80%](https://progress-bar.dev/80/)
 - **JavaScript** ![75%](https://progress-bar.dev/75/)
 - **C#** ![45%](https://progress-bar.dev/45/)
 - **HTML** ![65%](https://progress-bar.dev/65/)
