@@ -43,9 +43,6 @@
   </a>
 </p>
 
-<div style="position: fixed; bottom: 0; left: 0; padding: 10px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yankarpov.visitors&left_text=Visitors&left_color=purple&right_color=indigo" alt="Visitors">
-</div>
 
 
 
