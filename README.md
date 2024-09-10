@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="README.en.md">🇬🇧 English</a> | <strong>🇷🇺 Russian</strong>
+  <strong>English Version</strong> | <a href="README.ru.md">Russian Version</a>
 </p>
+
 
 <h2 align="center">Что я могу кратко рассказать о себе?</h2>
 <p align="center">
