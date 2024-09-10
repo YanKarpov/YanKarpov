@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>🇬🇧 English</strong> | <a href="README.ru.md">🇷🇺 Russian</a>
+  <strong>English Version</strong> | <a href="README.ru.md">Russian Version</a>
 </p>
 
 <h2 align="center">A little bit about myself</h2>
