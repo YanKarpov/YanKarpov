@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>English Version</strong> | <a href="README.ru.md">Russian Version</a>
+  <a href="README.en.md">English Version</a> | <strong>Russian Version</strong>
 </p>
 
 
