@@ -35,7 +35,7 @@
 
 | Репозитории по языкам программирования | Язык с наибольшим количеством коммитов |
 |---------------------------------------|--------------------------------------|
-| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yankarpov&theme=aura) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yankarpov&theme=aura) |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanKarpov&theme=aura) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanKarpov&theme=aura) |
 
 ## 📫 Контакты для связи
 <p align="center">
