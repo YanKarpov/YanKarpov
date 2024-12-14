@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name is Yan Karpov</h1>
-<h3 align="center">Programming student at ITHUB SPB College</h3>
+<h3 align="center">IT student specializing in programming at ITHUB SPB College</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-%236A0D91?style=flat-square" alt="Age">
@@ -30,11 +30,16 @@
 ## 📈 Learning Progress
 These are the main skills and technologies I've acquired so far through both college and self-study. I'm always striving to expand my knowledge and improve my skills, exploring new tools and approaches. For now, I haven't fully decided on a specific IT direction, but I'm slowly and steadily following the path of a fullstack developer!
 
-## 📊 A bit of GitHub stats
+### 📊 My GitHub Activity Stats
+| GitHub Stats |
+|-------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKarpov&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) |
 
-| Repositories by language | Most committed language |
-|--------------------------|-------------------------|
-| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yankarpov&theme=aura) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yankarpov&theme=aura) |
+### 📈 Repositories and Activity
+| Repositories by Programming Languages | Language with the Most Commits |
+|---------------------------------------|--------------------------------------|
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanKarpov&theme=aura) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanKarpov&theme=aura) |
+
 
 ## 📫 Contact me
 <p align="center">
