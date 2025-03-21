@@ -2,7 +2,7 @@
 <h3 align="center">IT student specializing in programming at ITHUB SPB College</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-%236A0D91?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/Age-20-%236A0D91?style=flat-square" alt="Age">
   <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-%236A0D91?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Languages-Russian%2C%20English-%236A0D91?style=flat-square" alt="Languages">
   <img src="https://img.shields.io/badge/Status-Student-%236A0D91?style=flat-square" alt="Status">
@@ -14,7 +14,7 @@
 
 <h2 align="center">A little bit about myself</h2>
 <p align="center">
-  My name is Yan Karpov, I'm 19 years old, and I aspire to become an experienced programmer in the IT field. My motto is <strong>Per aspera ad astra</strong> (Through hardships to the stars). This reflects my determination to overcome difficulties on the path to achievements and professional growth.
+  My name is Yan Karpov, I'm 20 years old, and I aspire to become an experienced programmer in the IT field. My motto is <strong>Per aspera ad astra</strong> (Through hardships to the stars). This reflects my determination to overcome difficulties on the path to achievements and professional growth.
 </p>
 <p align="center">
   I believe that with my ambition, I will achieve my goals. I'm currently studying programming at <a href="https://spb.ithub.ru/">ITHUB SPB College</a> and already taking my first steps toward professional development.
