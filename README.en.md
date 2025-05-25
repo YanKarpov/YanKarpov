@@ -36,6 +36,11 @@
   Besides learning new skills, I actively participate in hackathons and team projects to apply my knowledge in practice and develop collaboration skills.
 </p>
 
+<p align="center">
+  <img src="assets/niko-oneshot.gif" alt="Niko OneShot" width="200" />
+</p>
+
+
 ---
 
 ## 🔧 My Main Skills
