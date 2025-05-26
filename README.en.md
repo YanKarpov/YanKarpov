@@ -49,11 +49,11 @@
 |----------------------|-------------------|-----------------------------------------------|
 | Python               | ![80%](https://img.shields.io/badge/Python-80%25-brightgreen) | Machine learning, bots, aiogram, TensorFlow    |
 | JavaScript           | ![75%](https://img.shields.io/badge/JavaScript-75%25-yellow) | React, frontend, working with APIs and DOM     |
-| C#                   | ![45%](https://img.shields.io/badge/C%23-45%25-orange) | OOP basics, simple applications                  |
-| HTML                 | ![65%](https://img.shields.io/badge/HTML-65%25-blue) | Semantic markup, responsive design               |
-| CSS                  | ![45%](https://img.shields.io/badge/CSS-45%25-lightgrey) | Flexbox, Grid, cross-browser styling             |
-| Git                  | ![70%](https://img.shields.io/badge/Git-70%25-blueviolet) | Version control, branching, pull requests         |
-| SQL                  | ![40%](https://img.shields.io/badge/SQL-40%25-lightblue) | Basic queries, database work                       |
+| React                | ![65%](https://img.shields.io/badge/React-65%25-blue) | Components, hooks, routing, state management   |
+| C#                   | ![45%](https://img.shields.io/badge/C%23-45%25-orange) | OOP basics, simple applications                |
+| Git                  | ![70%](https://img.shields.io/badge/Git-70%25-blueviolet) | Version control, branching, pull requests      |
+| SQL                  | ![40%](https://img.shields.io/badge/SQL-40%25-lightblue) | Basic queries, database work                   |
+
 
 ---
 
