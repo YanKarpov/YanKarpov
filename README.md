@@ -45,11 +45,11 @@
 |-------------------|------------------|--------------------------------------------|
 | Python            | ![80%](https://img.shields.io/badge/Python-80%25-brightgreen) | Машинное обучение, боты, aiogram, TensorFlow |
 | JavaScript        | ![75%](https://img.shields.io/badge/JavaScript-75%25-yellow) | React, фронтенд, работа с API и DOM         |
+| React             | ![65%](https://img.shields.io/badge/React-65%25-blue) | Компоненты, хуки, маршрутизация, состояние  |
 | C#                | ![45%](https://img.shields.io/badge/C%23-45%25-orange) | Основы ООП, простые приложения               |
-| HTML              | ![65%](https://img.shields.io/badge/HTML-65%25-blue) | Семантика, адаптивный дизайн                  |
-| CSS               | ![45%](https://img.shields.io/badge/CSS-45%25-lightgrey) | Flexbox, Grid, кроссбраузерная верстка       |
 | Git               | ![70%](https://img.shields.io/badge/Git-70%25-blueviolet) | Контроль версий, ветвление, pull request     |
-| SQL               | ![40%](https://img.shields.io/badge/SQL-40%25-lightblue) | Основы запросов, работа с базами данных       |
+| SQL               | ![40%](https://img.shields.io/badge/SQL-40%25-lightblue) | Основы запросов, работа с базами данных      |
+
 
 ---
 
