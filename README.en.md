@@ -63,14 +63,6 @@ I’m actively developing fullstack skills by exploring web development, machine
 
 ---
 
-### 📊 GitHub Stats
-
-| GitHub Stats |
-|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKarpov&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) |
-
----
-
 ### 📈 Repositories & Languages
 
 | Repositories by Language | Most Active Language |
