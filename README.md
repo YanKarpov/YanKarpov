@@ -59,14 +59,6 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
-
-| Статистика GitHub |
-|-------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKarpov&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) |
-
----
-
 ### 📈 Активность и языки
 
 | Репозитории по языкам | Язык с наибольшим количеством коммитов |
