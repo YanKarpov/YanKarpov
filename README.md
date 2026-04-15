@@ -73,9 +73,11 @@
   <a href="mailto:karpovyaa23@spb.ithub.ru">
     <img src="https://img.shields.io/badge/Email-karpovyaa23@spb.ithub.ru-%234B0082?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/LupusHex">
+    <img src="https://img.shields.io/badge/Telegram-@LupusHex-26C5FF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
-
-
 
 
 
