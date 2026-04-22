@@ -2,7 +2,7 @@
 <h3 align="center">Студент-программист колледжа <a href="https://spb.ithub.ru/">ITHUB SPB</a></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-%236A0D91?style=flat-square" alt="Age" />
+  <img src="https://img.shields.io/badge/Age-21-%236A0D91?style=flat-square" alt="Age" />
   <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-%236A0D91?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Languages-Russian%2C%20English-%236A0D91?style=flat-square" alt="Languages" />
   <img src="https://img.shields.io/badge/Status-Student-%236A0D91?style=flat-square" alt="Status" />
@@ -33,35 +33,32 @@
 
 ---
 
+## Мой стек технологий
 
-## 🔧 Мои основные навыки
+<p align="left">
+  <strong>🐍 Языки программирования</strong><br/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,java,cs" />
+</p>
 
-| Язык / Технология | Уровень освоения | Что умею делать                             |
-|-------------------|------------------|--------------------------------------------|
-| Python            | ![80%](https://img.shields.io/badge/Python-80%25-brightgreen) | Машинное обучение, боты, aiogram, TensorFlow |
-| JavaScript        | ![75%](https://img.shields.io/badge/JavaScript-75%25-yellow) | React, фронтенд, работа с API и DOM         |
-| React             | ![65%](https://img.shields.io/badge/React-65%25-blue) | Компоненты, хуки, маршрутизация, состояние  |
-| C#                | ![45%](https://img.shields.io/badge/C%23-45%25-orange) | Основы ООП, простые приложения               |
-| Git               | ![70%](https://img.shields.io/badge/Git-70%25-blueviolet) | Контроль версий, ветвление, pull request     |
-| SQL               | ![40%](https://img.shields.io/badge/SQL-40%25-lightblue) | Основы запросов, работа с базами данных      |
+<p align="left">
+  <strong>⚙️ Фреймворки и библиотеки</strong><br/>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,express,nestjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,selenium,jest" />
+</p>
 
+<p align="left">
+  <strong>🗄️ Базы данных</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-## 📈 Развитие
-
-Я активно прокачиваю навыки fullstack-разработки, экспериментируя с:
-- веб-приложениями
-- API
-- машинным обучением
-
-Сейчас изучаю:
-- 🦀 Rust  
-- 🌐 Сетевое программирование  
-- ⚙️ Основы DevOps  
+<p align="left">
+  <strong>🐳 DevOps и инструменты</strong><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,rabbitmq" />
+</p>
 
 ---
 
-
-### 📈 Активность и языки
+## 📈 Активность и языки
 
 | Репозитории по языкам | Язык с наибольшим количеством коммитов |
 |----------------------|--------------------------------------|
@@ -69,7 +66,7 @@
 
 ---
 
-## 📫 Контакты для связи
+## 📫 Контакты
 
 <p align="center">
   <a href="mailto:karpovyaa23@spb.ithub.ru">
@@ -86,8 +83,6 @@
 <p align="center">
   <i>Per aspera ad astra 🚀</i>
 </p>
-
-
 
 
 
